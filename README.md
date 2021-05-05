@@ -1,13 +1,6 @@
 ### About Me 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Autonomus Navigation systems and visual odometry.
-- 🌱 I’m currently learning ... Deep learning.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
+- 🔭 I’m currently working on Autonomus Navigation systems and visual odometry.
+- 🌱 I’m currently learning Deep learning. 
 - 📫 How to reach me: ...[Email](pareespathak1@gmail.com), [LinkedIn](https://www.linkedin.com/in/parees-pathak-6b743a1b5/)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... 
 -->
