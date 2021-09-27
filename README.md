@@ -1,4 +1,5 @@
 ### About Me 👋  
+[Personal Website](https://pareespathak.wixsite.com/webpage)  
 [Resume](https://drive.google.com/file/d/1DzEHKC1dnQvN3kFd6RBxwR4jrZPGEC_z/view?usp=sharing)
 
 - Education: Pre final year student of Visvesvaraya National Institute of Technology,Nagpur.  
