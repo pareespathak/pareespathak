@@ -1,13 +1,12 @@
 ### About Me 👋  
 [Personal Website](https://pareespathak.wixsite.com/webpage)  
-[Resume](https://drive.google.com/file/d/16AoA3zEKq_X2Y_TrmDkwWLVROTTzhTqM/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1EbBLunA0G_1_qAQergCAROY9U0ceoMPG/view?usp=sharing)
 
-- Education: Final year student of Visvesvaraya National Institute of Technology,Nagpur.  
-- Interested in Computer vision and its application in Robotics, 3D reconstruction and sfm.
-- 🔭 I’m currently working on Autonomus Navigation systems and visual odometry.  
-- Worked on Traditional Computer Vision, Image Processing, Visual
-Odometry, Controls.
-- 🌱 Currently learning Object detection and Deep learning Computer Vision.   
+- Education: Master's student at Georgia Institute of Technology, specialization in civil engineering (CISE concentration).  
+- Interested in Computer vision and its application in Robotics, 3D reconstruction, and sfm.
+- 🔭 I’m working on Autonomous civil inspections and intelligent transportation systems.
+- My recent research has proved that AI and robotics could be the key to bridging the gap between future construction and the current state of the art. Further, given the advanced capabilities of computing, I am interested in exploring all the possibilities of automation in this field that range from the mundane to the fantastic. In the long run, I wish to lead a startup to develop AI solutions and autonomous robots to solve complex real-world problems dealing with structural inspection and reconstruction.
+ 
 - 📫 How to reach me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pareespathak1@gmail.com)
