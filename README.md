@@ -1,6 +1,6 @@
 ### About Me 👋  
 [Personal Website](https://pareespathak.wixsite.com/webpage)  
-[Resume](https://drive.google.com/file/d/1EbBLunA0G_1_qAQergCAROY9U0ceoMPG/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1sYy1z_qpHptMRXlbfP9sJsVOXG-jXI3f/view?usp=sharing)
 
 - Education: Master's student at Georgia Institute of Technology, specialization in civil engineering (CISE concentration).  
 - Interested in Computer vision and its application in Robotics, 3D reconstruction, and sfm.
